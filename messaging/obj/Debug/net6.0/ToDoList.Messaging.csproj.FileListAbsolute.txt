@@ -1,0 +1,15 @@
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\bin\Debug\net6.0\ToDoList.Messaging.deps.json
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\bin\Debug\net6.0\ToDoList.Messaging.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\bin\Debug\net6.0\ToDoList.Messaging.pdb
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\bin\Debug\net6.0\ToDoList.Entities.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\bin\Debug\net6.0\ToDoList.Entities.pdb
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.csproj.AssemblyReference.cache
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.AssemblyInfoInputs.cache
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.AssemblyInfo.cs
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.csproj.CopyComplete
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\refint\ToDoList.Messaging.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ToDoList.Messaging.pdb
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\messaging\obj\Debug\net6.0\ref\ToDoList.Messaging.dll

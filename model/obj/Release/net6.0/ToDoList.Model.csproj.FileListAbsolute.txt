@@ -1,0 +1,15 @@
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Model.deps.json
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Model.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Model.pdb
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Entities.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\bin\Release\net6.0\ToDoList.Entities.pdb
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.csproj.AssemblyReference.cache
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.AssemblyInfoInputs.cache
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.AssemblyInfo.cs
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.csproj.CoreCompileInputs.cache
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.csproj.CopyComplete
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\refint\ToDoList.Model.dll
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ToDoList.Model.pdb
+C:\Users\k.ap.s.parameswaran\azure\projects\distributed\src\model\obj\Release\net6.0\ref\ToDoList.Model.dll

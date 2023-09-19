@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/ToDoListProject2/providers/Microsoft.ServiceLinker/linkers/VaultUri_EA29F12951",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/kvtodolis",
+      "type": "secrets.keyVault",
+      "connectionId": "VaultUri",
+      "dynamicId": null
+    },
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/ToDoListProject2/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsToDoDb_EBFD358A2B",
+      "secretStore": "AzureKeyVault",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/serverkirti/databases/project2kirti",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:ToDoDb",
+      "dynamicId": null
+    }
+  }
+}
